@@ -35,4 +35,9 @@
        </div>
      );
    ```
+
    `spin` make the icon keep spinning...
+
+---
+
+Reference: https://docs.fontawesome.com/web/use-with/react/

@@ -2,7 +2,7 @@
 
 A repository for typing down every question encountered during the coding process, which can be checked in the future.
 
-## <span style="color:pink">UNSOLVED</span> Problems:
+## <span style="color:red">UNSOLVED</span> Problems:
 * [Relationship between div element and layout](./front-end/UNSOLVED/div-and-layout.md)
 
 ## These are the problems I met as a Front-end Engineer:

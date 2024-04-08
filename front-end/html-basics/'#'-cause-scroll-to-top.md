@@ -1,4 +1,4 @@
-## Wierd about auto scrolling to the top of the page after clicking a button.
+# `<a href="#">` causing auto scrolling to top.
 
 When clicking an element `<a></a>`, the webpage automatically scroll to the top, why is that?
 

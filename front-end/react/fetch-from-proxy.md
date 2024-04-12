@@ -9,3 +9,33 @@ Add 'proxy' attribute to the `package.json` file
 ```json
 "proxy": "https://stopworking.icu/",
 ```
+
+Original:
+
+```json
+{
+  "name": "finalyear_frontend",
+  "homepage": "http://educhamp.themetrades.com",
+  "version": "0.1.0",
+  "private": true,
+  // need to add proxy
+  "dependencies": {
+  ...
+  }
+}
+```
+
+After change:
+
+```json
+{
+  "name": "finalyear_frontend",
+  "homepage": "http://educhamp.themetrades.com",
+  "version": "0.1.0",
+  "private": true,
+  "proxy": "https://stopworking.icu/",
+  "dependencies": {
+  ...
+  }
+}
+```
